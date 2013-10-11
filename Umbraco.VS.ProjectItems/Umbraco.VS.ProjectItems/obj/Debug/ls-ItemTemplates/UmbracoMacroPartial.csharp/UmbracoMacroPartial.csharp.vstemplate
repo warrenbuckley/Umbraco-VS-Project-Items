@@ -4,14 +4,14 @@
     
     <DefaultName>PartialMacro.cshtml</DefaultName>
     <Name>Umbraco Macro Partial</Name>
-    <Description>Long description here</Description>    
+    <Description>This allows you to create a Partial with the added benefits of Macro Parameters and the ability to insert it into a Rich Text Editor.</Description>    
     <Icon>icon.png</Icon>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
   </TemplateData>
   <TemplateContent>
     <References />
      
-    <ProjectItem ReplaceParameters="true">partitalmacro.cshtml</ProjectItem>
+    <ProjectItem ReplaceParameters="true">PartialMacro.cshtml</ProjectItem>
     
   </TemplateContent>
 </VSTemplate>

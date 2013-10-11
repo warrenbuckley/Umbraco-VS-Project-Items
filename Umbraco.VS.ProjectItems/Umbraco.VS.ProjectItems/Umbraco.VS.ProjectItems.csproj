@@ -53,7 +53,7 @@
   <ItemGroup>
     <Content Include="ItemTemplates\Web\UmbracoMacroPartial\icon.png" />
     <Content Include="ItemTemplates\Web\UmbracoView\icon.png" />
-    <Content Include="ItemTemplates\Web\UmbracoXSLT\umbraco.xslt" />
+    <Content Include="ItemTemplates\Web\UmbracoXSLT\Umbraco.xslt" />
     <Content Include="ItemTemplates\Web\UmbracoXSLT\icon.png" />
     <Content Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\CSharp.vstemplate" />
     <None Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\VB.vstemplat-" />
@@ -63,8 +63,8 @@
     <None Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\VB.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\Web.csharp.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\Web.VB.vstemplat-" />
-    <None Include="ItemTemplates\Web\UmbracoMacroPartial\partialmacro.cshtml" />
-    <None Include="ItemTemplates\Web\UmbracoSurfaceController\Definitions\CSharp.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoMacroPartial\PartialMacro.cshtml" />
+    <Content Include="ItemTemplates\Web\UmbracoSurfaceController\Definitions\CSharp.vstemplate" />
     <None Include="ItemTemplates\Web\UmbracoSurfaceController\Definitions\VB.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoSurfaceController\Definitions\Web.csharp.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoSurfaceController\Definitions\Web.VB.vstemplat-" />
@@ -73,7 +73,7 @@
     <None Include="ItemTemplates\Web\UmbracoView\Definitions\VB.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoView\Definitions\Web.csharp.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoView\Definitions\Web.VB.vstemplat-" />
-    <None Include="ItemTemplates\Web\UmbracoView\template.cshtml" />
+    <None Include="ItemTemplates\Web\UmbracoView\Template.cshtml" />
     <None Include="ItemTemplates\Web\UmbracoXSLT\Definitions\VB.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoXSLT\Definitions\Web.csharp.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoXSLT\Definitions\Web.VB.vstemplat-" />

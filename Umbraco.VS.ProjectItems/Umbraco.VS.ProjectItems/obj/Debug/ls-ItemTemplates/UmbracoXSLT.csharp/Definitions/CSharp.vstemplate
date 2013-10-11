@@ -11,7 +11,7 @@
   <TemplateContent>
     <References />
      
-    <ProjectItem ReplaceParameters="true">umbraco.xslt</ProjectItem>
+    <ProjectItem ReplaceParameters="true">Umbraco.xslt</ProjectItem>
     
   </TemplateContent>
 </VSTemplate>

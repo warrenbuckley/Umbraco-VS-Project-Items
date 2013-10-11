@@ -1,0 +1,17 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <ProjectType>CSharp</ProjectType>
+    
+    <DefaultName>ContactFormSurfaceController.cs</DefaultName>
+    <Name>Umbraco Surface Controller</Name>
+    <Description>This creates an example Surface Controller used for displaying and posting to a Contact Form</Description>    
+    <Icon>icon.png</Icon>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+     
+    <ProjectItem ReplaceParameters="true">ContactFormSurfaceController.cs</ProjectItem>
+    
+  </TemplateContent>
+</VSTemplate>

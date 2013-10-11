@@ -2,16 +2,16 @@
   <TemplateData>
     <ProjectType>CSharp</ProjectType>
     
-    <DefaultName>template.cshtml</DefaultName>
+    <DefaultName>Template.cshtml</DefaultName>
     <Name>Umbraco View (Template)</Name>
-    <Description>Long description here</Description>    
+    <Description>This is a MVC View but with the correct Umbraco type to allow you to use the Umbraco helper in your template.</Description>    
     <Icon>icon.png</Icon>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
   </TemplateData>
   <TemplateContent>
     <References />
      
-    <ProjectItem ReplaceParameters="true">template.cshtml</ProjectItem>
+    <ProjectItem ReplaceParameters="true">Template.cshtml</ProjectItem>
     
   </TemplateContent>
 </VSTemplate>

@@ -1,0 +1,17 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <ProjectType>CSharp</ProjectType>
+
+    <DefaultName>WebAPIController.cs</DefaultName>
+    <Name>Umbraco Web API Controller</Name>
+    <Description>This creates a Web API Controller, allowing you to do GET, POST, PUT, DELETE requests with Umbraco</Description>
+    <Icon>icon.png</Icon>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+
+    <ProjectItem ReplaceParameters="true">WebAPIController.cs</ProjectItem>
+
+  </TemplateContent>
+</VSTemplate>

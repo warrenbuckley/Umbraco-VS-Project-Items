@@ -57,3 +57,4 @@ C:\Users\Warren Buckley\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\
 C:\Users\Warren Buckley\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Umbraco Community\Umbraco Community - Visual Studio Project Items\1.0.0\Output\ItemTemplates\CSharp\Web\Umbraco\UmbracoXSLT.csharp.zip
 C:\Users\Warren Buckley\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Umbraco Community\Umbraco Community - Visual Studio Project Items\1.0.0\Output\ItemTemplates\CSharp\Web\Umbraco\UmbracoMacroPartial.csharp.zip
 C:\Users\Warren Buckley\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Umbraco Community\Umbraco Community - Visual Studio Project Items\1.0.0\Output\ItemTemplates\CSharp\Web\Umbraco\UmbracoView.csharp.zip
+C:\Users\Warren Buckley\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Umbraco Community\Umbraco Community - Visual Studio Project Items\1.0.0\Output\ItemTemplates\CSharp\Web\Umbraco\UmbracoSurfaceController.csharp.zip
