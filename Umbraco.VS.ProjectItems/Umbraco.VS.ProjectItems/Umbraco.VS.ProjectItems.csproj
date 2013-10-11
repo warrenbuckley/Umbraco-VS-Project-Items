@@ -45,15 +45,45 @@
     <TemplateBuilderTargets Condition=" '$(TemplateBuilderTargets)'=='' ">$([System.IO.Path]::GetFullPath( $(MSBuildProjectDirectory)\..\packages\TemplateBuilder.1.0.3.17-beta\tools\ligershark.templates.targets ))</TemplateBuilderTargets>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ItemTemplates\Web\UmbracoApplicationEvents\RegisterEvents.cs" />
+    <Compile Include="ItemTemplates\Web\UmbracoSurfaceController\ContactFormSurfaceController.cs" />
     <Compile Include="ItemTemplates\Web\UmbracoWebAPIController\WebAPIController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ItemTemplates\Web\UmbracoMacroPartial\icon.png" />
+    <Content Include="ItemTemplates\Web\UmbracoView\icon.png" />
+    <Content Include="ItemTemplates\Web\UmbracoXSLT\umbraco.xslt" />
+    <Content Include="ItemTemplates\Web\UmbracoXSLT\icon.png" />
+    <Content Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\CSharp.vstemplate" />
+    <None Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\VB.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\Web.csharp.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\Web.VB.vstemplat-" />
+    <Content Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\CSharp.vstemplate" />
+    <None Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\VB.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\Web.csharp.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\Web.VB.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoMacroPartial\partialmacro.cshtml" />
+    <None Include="ItemTemplates\Web\UmbracoSurfaceController\Definitions\CSharp.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoSurfaceController\Definitions\VB.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoSurfaceController\Definitions\Web.csharp.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoSurfaceController\Definitions\Web.VB.vstemplat-" />
+    <Content Include="ItemTemplates\Web\UmbracoXSLT\Definitions\CSharp.vstemplate" />
+    <Content Include="ItemTemplates\Web\UmbracoView\Definitions\CSharp.vstemplate" />
+    <None Include="ItemTemplates\Web\UmbracoView\Definitions\VB.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoView\Definitions\Web.csharp.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoView\Definitions\Web.VB.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoView\template.cshtml" />
+    <None Include="ItemTemplates\Web\UmbracoXSLT\Definitions\VB.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoXSLT\Definitions\Web.csharp.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoXSLT\Definitions\Web.VB.vstemplat-" />
     <None Include="packages.config" />
     <None Include="Properties\template-builder.props" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
+    <Content Include="ItemTemplates\Web\UmbracoApplicationEvents\icon.png" />
+    <Content Include="ItemTemplates\Web\UmbracoSurfaceController\icon.png" />
     <Content Include="ItemTemplates\Web\UmbracoWebAPIController\Definitions\CSharp.vstemplate" />
     <None Include="ItemTemplates\Web\UmbracoWebAPIController\Definitions\VB.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoWebAPIController\Definitions\Web.csharp.vstemplat-" />
