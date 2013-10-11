@@ -3,7 +3,7 @@
   <Metadata>
     <Identity Id="Umbraco.VS.ProjectItems..49fdb258-bb17-4409-972a-d1ccab14284e" Version="1.0.0" Language="en-US" Publisher="Umbraco Community" />
     <DisplayName>Umbraco Community - Visual Studio Project Items</DisplayName>
-    <Description xml:space="preserve">This is a Visual Studio extension that adds common Umbraco files as New Item file templates.Um</Description>
+    <Description xml:space="preserve">This is a Visual Studio extension that adds common Umbraco files as New Item file templates.</Description>
   </Metadata>
   <Installation>
     <InstallationTarget Version="[11.0]" Id="Microsoft.VisualStudio.Pro" />

@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Mvc;
 using Umbraco.Web.Mvc;
 
-namespace Umbraco.VS.ProjectItems.ItemTemplates.Web.UmbracoSurfaceController
+namespace $rootnamespace$
 {
-    public class ContactFormSurfaceController : SurfaceController
+    public class $safeitemrootname$ : SurfaceController
     {
         /// <summary>
         /// Renders the Contact Form
@@ -33,9 +35,9 @@ namespace Umbraco.VS.ProjectItems.ItemTemplates.Web.UmbracoSurfaceController
             }
 
             //Generate an email message object to send
-            MailMessage email = new MailMessage(model.Email, "you@yoursite.co.uk");
-            email.Subject = "Contact Form Request";
-            email.Body = model.Message;
+            MailMessage email   = new MailMessage(model.Email, "you@yoursite.co.uk");
+            email.Subject       = "Contact Form Request";
+            email.Body          = model.Message;
 
             try
             {
