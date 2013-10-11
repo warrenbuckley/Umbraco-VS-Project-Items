@@ -77,3 +77,4 @@ C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umb
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\obj\Release\Umbraco.VS.ProjectItems.dll
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\obj\Release\Umbraco.VS.ProjectItems.pdb
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\obj\Release\extension.vsixmanifest
+C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\obj\Release\Umbraco.VS.ProjectItems.csprojResolveAssemblyReference.cache
