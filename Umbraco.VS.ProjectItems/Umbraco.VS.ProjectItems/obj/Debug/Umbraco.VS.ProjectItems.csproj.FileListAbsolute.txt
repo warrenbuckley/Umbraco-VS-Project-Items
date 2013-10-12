@@ -74,7 +74,7 @@ C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umb
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\bin\Debug\umbraco.MacroEngines.xml
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\bin\Debug\umbraco.macroRenderings.xml
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\bin\Debug\umbraco.providers.xml
+C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\obj\Debug\Umbraco.VS.ProjectItems.csprojResolveAssemblyReference.cache
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\obj\Debug\Umbraco.VS.ProjectItems.dll
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\obj\Debug\Umbraco.VS.ProjectItems.pdb
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\obj\Debug\extension.vsixmanifest
-C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\obj\Debug\Umbraco.VS.ProjectItems.csprojResolveAssemblyReference.cache

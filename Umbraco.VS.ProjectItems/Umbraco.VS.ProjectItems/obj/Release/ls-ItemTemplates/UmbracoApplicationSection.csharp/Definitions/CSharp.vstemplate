@@ -1,0 +1,18 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <ProjectType>CSharp</ProjectType>
+    <Name>Umbraco Application Section</Name>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>CustomApp</DefaultName>
+    <Description>This creates two classes. One for the Custom Application Section and one for the Custom Tree in that section.</Description>    
+    <Icon>icon.png</Icon>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+     
+    <ProjectItem TargetFileName="$fileinputname$.cs" ReplaceParameters="true">CustomApp/CustomApp.cs</ProjectItem>
+    <ProjectItem TargetFileName="$fileinputname$Tree.cs" ReplaceParameters="true">CustomApp/CustomAppTree.cs</ProjectItem>
+    
+  </TemplateContent>
+</VSTemplate>

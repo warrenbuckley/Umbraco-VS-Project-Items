@@ -3,12 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Mail;
 using System.Text;
-using System.Threading.Tasks;
 using System.Web.Mvc;
 using Umbraco.Web.Mvc;
 
 namespace $rootnamespace$
 {
+    /// <summary>
+    /// Umbraco Surface Controller
+    /// 
+    /// Documentation
+    /// http://our.umbraco.org/documentation/Reference/Mvc/surface-controllers
+    /// 
+    /// Other Resource
+    /// http://creativewebspecialist.co.uk/2013/07/22/umbraco-mvc-what-on-earth-is-a-surface-controller/
+    /// </summary>
     public class $safeitemrootname$ : SurfaceController
     {
         /// <summary>

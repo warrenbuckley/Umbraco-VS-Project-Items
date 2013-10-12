@@ -11,6 +11,13 @@ using Umbraco.Core.Services;
 
 namespace $rootnamespace$
 {
+    /// <summary>
+    /// Umbraco Register Events on Application Startup
+    /// 
+    /// Documentation
+    /// http://our.umbraco.org/documentation/Reference/Events/application-startup
+    /// http://our.umbraco.org/documentation/reference/events-v6/
+    /// </summary>
     public class  $safeitemrootname$ : ApplicationEventHandler
     {
 

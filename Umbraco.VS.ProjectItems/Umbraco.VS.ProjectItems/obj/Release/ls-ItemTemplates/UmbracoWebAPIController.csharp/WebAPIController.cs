@@ -9,6 +9,14 @@ using Umbraco.Web.WebApi;
 
 namespace $rootnamespace$
 {
+    /// <summary>
+    /// Umbraco Web API Controller
+    /// This controller will be reachanble at
+    /// http://yoursite.co.uk/umbraco/api/YourControllerName
+    /// 
+    /// Documentation
+    /// http://our.umbraco.org/documentation/Reference/WebApi/
+    /// </summary>
     public class $safeitemrootname$ : UmbracoApiController
     {
         [HttpGet]

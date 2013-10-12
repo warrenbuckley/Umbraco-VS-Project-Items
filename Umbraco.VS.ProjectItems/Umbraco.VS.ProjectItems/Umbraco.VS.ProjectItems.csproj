@@ -46,11 +46,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ItemTemplates\Web\UmbracoApplicationEvents\RegisterEvents.cs" />
+    <Compile Include="ItemTemplates\Web\UmbracoApplicationSection\CustomApp\CustomApp.cs" />
+    <Compile Include="ItemTemplates\Web\UmbracoApplicationSection\CustomApp\CustomAppTree.cs" />
     <Compile Include="ItemTemplates\Web\UmbracoSurfaceController\ContactFormSurfaceController.cs" />
     <Compile Include="ItemTemplates\Web\UmbracoWebAPIController\WebAPIController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ItemTemplates\Web\UmbracoApplicationSection\icon.png" />
     <Content Include="ItemTemplates\Web\UmbracoMacroPartial\icon.png" />
     <Content Include="ItemTemplates\Web\UmbracoView\icon.png" />
     <Content Include="ItemTemplates\Web\UmbracoXSLT\Umbraco.xslt" />
@@ -60,6 +63,10 @@
     <None Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\Web.csharp.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\Web.VB.vstemplat-" />
     <Content Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\CSharp.vstemplate" />
+    <Content Include="ItemTemplates\Web\UmbracoApplicationSection\Definitions\CSharp.vstemplate" />
+    <None Include="ItemTemplates\Web\UmbracoApplicationSection\Definitions\VB.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoApplicationSection\Definitions\Web.csharp.vstemplat-" />
+    <None Include="ItemTemplates\Web\UmbracoApplicationSection\Definitions\Web.VB.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\VB.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\Web.csharp.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoMacroPartial\Definitions\Web.VB.vstemplat-" />
