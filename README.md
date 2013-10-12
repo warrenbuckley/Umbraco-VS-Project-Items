@@ -5,4 +5,4 @@ This is an Umbraco Community project that is used to create a Visual Studio Pack
 
 Download VISX
 ========================
-https://github.com/warrenbuckley/Umbraco-VS-Project-Items/blob/aeff2aab115fdc5db04943f8445bcb2ef281850c/Umbraco.VS.ProjectItems/Umbraco.VS.ProjectItems/bin/Release/Umbraco.VS.ProjectItems.vsix
+https://github.com/warrenbuckley/Umbraco-VS-Project-Items/blob/2a775e850f7f6ecc745073122ff447a01a3c1800/Umbraco.VS.ProjectItems/Umbraco.VS.ProjectItems/bin/Release/Umbraco.VS.ProjectItems.vsix?raw=true
