@@ -5,6 +5,9 @@
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>umb-new-blue.ico</ApplicationIcon>
+  </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -53,12 +56,19 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ItemTemplates\Web\UmbracoApplicationSection\icon.png" />
-    <Content Include="ItemTemplates\Web\UmbracoMacroPartial\icon.png" />
-    <Content Include="ItemTemplates\Web\UmbracoView\icon.png" />
+    <Content Include="ItemTemplates\Web\UmbracoApplicationEvents\umb-new-blue.ico" />
+    <Content Include="ItemTemplates\Web\UmbracoApplicationSection\umb-new-blue.ico" />
+    <Content Include="ItemTemplates\Web\UmbracoMacroPartial\umb-new-blue.ico" />
+    <Content Include="ItemTemplates\Web\UmbracoSurfaceController\umb-new-blue.ico" />
+    <Content Include="ItemTemplates\Web\UmbracoView\umb-new-blue.ico" />
+    <Content Include="ItemTemplates\Web\UmbracoWebAPIController\umb-new-blue.ico" />
+    <Content Include="ItemTemplates\Web\UmbracoXSLT\umb-new-blue.ico" />
     <Content Include="ItemTemplates\Web\UmbracoXSLT\Umbraco.xslt" />
-    <Content Include="ItemTemplates\Web\UmbracoXSLT\icon.png" />
     <Content Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\CSharp.vstemplate" />
+    <Content Include="umb-new-blue.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <None Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\VB.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\Web.csharp.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoApplicationEvents\Definitions\Web.VB.vstemplat-" />
@@ -89,15 +99,10 @@
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
-    <Content Include="ItemTemplates\Web\UmbracoApplicationEvents\icon.png" />
-    <Content Include="ItemTemplates\Web\UmbracoSurfaceController\icon.png" />
     <Content Include="ItemTemplates\Web\UmbracoWebAPIController\Definitions\CSharp.vstemplate" />
     <None Include="ItemTemplates\Web\UmbracoWebAPIController\Definitions\VB.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoWebAPIController\Definitions\Web.csharp.vstemplat-" />
     <None Include="ItemTemplates\Web\UmbracoWebAPIController\Definitions\Web.VB.vstemplat-" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="ItemTemplates\Web\UmbracoWebAPIController\icon.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="businesslogic">

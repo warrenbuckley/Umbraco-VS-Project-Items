@@ -4,8 +4,8 @@
     
     <DefaultName>Template.cshtml</DefaultName>
     <Name>Umbraco View (Template)</Name>
-    <Description>This is a MVC View but with the correct Umbraco type to allow you to use the Umbraco helper in your template.</Description>    
-    <Icon>icon.png</Icon>
+    <Description>This is a MVC View but with the correct Umbraco type to allow you to use the Umbraco helper in your template.</Description>
+    <Icon>umb-new-blue.ico</Icon>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
   </TemplateData>
   <TemplateContent>

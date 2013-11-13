@@ -5,7 +5,7 @@
     <DefaultName>WebAPIController.cs</DefaultName>
     <Name>Umbraco Web API Controller</Name>
     <Description>This creates a Web API Controller, allowing you to do GET, POST, PUT, DELETE requests with Umbraco</Description>
-    <Icon>icon.png</Icon>
+    <Icon>umb-new-blue.ico</Icon>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
   </TemplateData>
   <TemplateContent>

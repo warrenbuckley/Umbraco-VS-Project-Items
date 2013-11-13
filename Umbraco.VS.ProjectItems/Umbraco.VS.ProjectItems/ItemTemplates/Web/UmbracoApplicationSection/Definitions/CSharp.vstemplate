@@ -4,8 +4,8 @@
     <Name>Umbraco Application Section</Name>
     <CreateNewFolder>true</CreateNewFolder>
     <DefaultName>CustomApp</DefaultName>
-    <Description>This creates two classes. One for the Custom Application Section and one for the Custom Tree in that section.</Description>    
-    <Icon>icon.png</Icon>
+    <Description>This creates two classes. One for the Custom Application Section and one for the Custom Tree in that section.</Description>
+    <Icon>umb-new-blue.ico</Icon>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
   </TemplateData>
   <TemplateContent>

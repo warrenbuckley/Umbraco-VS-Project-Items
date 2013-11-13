@@ -5,7 +5,7 @@
     <DefaultName>Umbraco.xslt</DefaultName>
     <Name>XSLT for Umbraco</Name>
     <Description>This adds an XSLT file used for Umbraco with the correct namespaces already referenced</Description>    
-    <Icon>icon.png</Icon>
+    <Icon>umb-new-blue.ico</Icon>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
   </TemplateData>
   <TemplateContent>

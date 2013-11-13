@@ -1,9 +1,10 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="Umbraco.VS.ProjectItems..49fdb258-bb17-4409-972a-d1ccab14284e" Version="1.0.1" Language="en-US" Publisher="Umbraco Community" />
+    <Identity Id="Umbraco.VS.ProjectItems..49fdb258-bb17-4409-972a-d1ccab14284e" Version="1.0.2" Language="en-US" Publisher="Umbraco Community" />
     <DisplayName>Umbraco Community - Visual Studio Project Items</DisplayName>
     <Description xml:space="preserve">This is a Visual Studio extension that adds common Umbraco files as New Item file templates.</Description>
     <MoreInfo>https://github.com/warrenbuckley/Umbraco-VS-Project-Items</MoreInfo>
+    <Icon>umb-new-blue.ico</Icon>
     <Tags>Umbraco, Visual Studio Item Templates</Tags>
   </Metadata>
   <Installation>

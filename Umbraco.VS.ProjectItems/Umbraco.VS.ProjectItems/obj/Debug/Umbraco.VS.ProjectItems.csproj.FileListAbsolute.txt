@@ -1,3 +1,4 @@
+C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\bin\Debug\umb-new-blue.ico
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\bin\Debug\Umbraco.VS.ProjectItems.vsix
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\bin\Debug\extension.vsixmanifest
 C:\inetpub\wwwroot\Personal\Umbraco VS Project Items\Umbraco.VS.ProjectItems\Umbraco.VS.ProjectItems\bin\Debug\businesslogic.dll

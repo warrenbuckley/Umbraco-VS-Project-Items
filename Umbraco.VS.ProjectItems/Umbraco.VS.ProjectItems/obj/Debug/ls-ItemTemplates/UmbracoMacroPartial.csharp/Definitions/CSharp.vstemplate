@@ -4,8 +4,8 @@
     
     <DefaultName>PartialMacro.cshtml</DefaultName>
     <Name>Umbraco Macro Partial</Name>
-    <Description>This allows you to create a Partial with the added benefits of Macro Parameters and the ability to insert it into a Rich Text Editor.</Description>    
-    <Icon>icon.png</Icon>
+    <Description>This allows you to create a Partial with the added benefits of Macro Parameters and the ability to insert it into a Rich Text Editor.</Description>
+    <Icon>umb-new-blue.ico</Icon>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
   </TemplateData>
   <TemplateContent>

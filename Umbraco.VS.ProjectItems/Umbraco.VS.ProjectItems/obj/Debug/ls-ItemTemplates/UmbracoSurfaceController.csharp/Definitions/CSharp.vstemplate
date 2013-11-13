@@ -4,8 +4,8 @@
     
     <DefaultName>ContactFormSurfaceController.cs</DefaultName>
     <Name>Umbraco Surface Controller</Name>
-    <Description>This creates an example Surface Controller used for displaying and posting to a Contact Form</Description>    
-    <Icon>icon.png</Icon>
+    <Description>This creates an example Surface Controller used for displaying and posting to a Contact Form</Description>
+    <Icon>umb-new-blue.ico</Icon>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
   </TemplateData>
   <TemplateContent>
