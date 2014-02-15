@@ -1,0 +1,33 @@
+﻿{   
+    //you can define multiple editors   
+    propertyEditors: [      
+        {
+            /*this must be a unique alias*/ 
+            alias: "YourCompany.PropertyName",
+            /*the name*/
+            name: "Your name here",
+            /*the html file we will load for the editor*/
+            editor: {
+                view: "~/App_Plugins/YourPluginsFolder/view.html",
+                valueType: "JSON" //or TEXT, STRING, DATETIME, INT, 
+            },
+            prevalues: {
+                fields:[
+                    {
+                       label: "Your label",
+                       description: "Your description",
+                       key:"yourKey",
+                       view:"boolean"
+                    }            
+                ]
+            }
+        }
+    ]
+    ,
+    //array of files we want to inject into the application on app_start
+    javascript: [
+        '~/App_Plugins/YourPluginsFolder/controller.js'
+
+    ],
+    css:[ '~/App_Plugins/YourPluginsFolder/style.css']
+}

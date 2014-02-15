@@ -1,0 +1,14 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <ProjectType>Web</ProjectType>
+    <Name>Umbraco 7 DataType Manifest</Name>
+    <DefaultName>package.manifest</DefaultName>
+    <Description>Creates a new umbraco 7 dataType manifest file. Based on http://umbraco.github.io/Belle/#/tutorials/manifest</Description>
+    <Icon>umb7-new-green.ico</Icon>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+    <ProjectItem ReplaceParameters="true">package.manifest</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
